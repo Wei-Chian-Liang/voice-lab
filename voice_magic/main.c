@@ -32,7 +32,7 @@
 #include "embARC_syscalls.c"	//for dfss_uart
 #include "dev_pinmux.h"	//for io_arduino_config_uart
 #include <stdlib.h>		//for atoi
-
+//test
 #define input_array_size 100
 
 int main(void)
